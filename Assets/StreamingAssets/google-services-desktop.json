@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "199059096179",
+    "firebase_url": "https://makeittogether-6d49b-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "makeittogether-6d49b",
+    "storage_bucket": "makeittogether-6d49b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199059096179:android:863273c285d927812ce006",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.Makeittogether"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfr8b5wri2p34pcG-tRsMclXNHcoBzVwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
